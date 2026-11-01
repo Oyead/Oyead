@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eyad 👋</h1>
+<h1 align="center">Hi, I'm Eyad </h1>
 <p align="center">Full-Stack Developer — React/Next.js · Node/Laravel/.NET · PostgreSQL · Redis · AI/LLM integration</p>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ---
 
-### 🎓 About
+###  About
 
-- 🎓 B.Sc. Computer Science, MTI University (2026)
-- 🌱 Full-Stack Diploma, Route Academy — React/Next.js + PHP/Laravel tracks
-- 📍 Cairo, Egypt
+-  B.Sc. Computer Science, MTI University (2026)
+-  Full-Stack Diploma, Route Academy — React/Next.js + PHP/Laravel tracks
+-  Cairo, Egypt
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **[Crossy](https://github.com/Oyead/crossy)** — AI-powered discovery engine
 Unified search across movies, TV, music, games, and books (TMDB, iTunes, RAWG, Open Library) in one query.
@@ -53,7 +53,7 @@ accessibility and SEO best practices applied throughout.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -78,7 +78,7 @@ accessibility and SEO best practices applied throughout.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oyead&show_icons=true&theme=tokyonight" height="165" />
