@@ -75,7 +75,5 @@ accessibility and SEO best practices applied throughout.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyead&layout=compact&theme=tokyonight" height="165" />
 </p>
